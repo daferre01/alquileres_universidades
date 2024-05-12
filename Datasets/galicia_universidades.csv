@@ -1,0 +1,282 @@
+;CAMPUS;Grao;FACULTADE;CANTIDAD;UNIVERSIDAD
+0;OURENSE;Graduado en Ciencia y Tecnología de los Alimentos;Facultade de Ciencias;148;UVIGO
+1;OURENSE;Graduado en Ciencias Ambientales;Facultade de Ciencias;194;UVIGO
+2;OURENSE;Graduado en Ingeniería Agraria;Facultade de Ciencias;65;UVIGO
+3;OURENSE;Graduado en Geografía e Historia;Facultade de Historia;407;UVIGO
+4;OURENSE;Graduado en Derecho;Facultade de Dereito;210;UVIGO
+5;OURENSE;PCEO Grao en Administración e Dirección de Empresas/Grao en Dereito; Facultade de Dereito;109;UVIGO
+6;OURENSE;Graduado en Administración y Dirección de Empresas;Facultade de Ciencias Empresariais e Turismo;424;UVIGO
+7;OURENSE;Graduado en Turismo;Facultade de Ciencias Empresariais e Turismo;179;UVIGO
+8;OURENSE;PCEO Grao en Turismo/Grao en Xeografía e Historia;Facultade de Ciencias Empresariais e Turismo;36;UVIGO
+9;OURENSE;Graduado en Educación Infantil;Facultade de Educación e Traballo Social;613;UVIGO
+10;OURENSE;Graduado en Educación Primaria;Facultade de Educación e Traballo Social;415;UVIGO
+11;OURENSE;Graduado en Educación Social;Facultade de Educación e Traballo Social;328;UVIGO
+12;OURENSE;Graduado en Trabajo Social;Facultade de Educación e Traballo Social;355;UVIGO
+13;OURENSE;Grao en Enxeñaría Informática; Escola Superior de Enxeñaría Informática;1496;UVIGO
+14;OURENSE;PCEO Grao en Administración e Dirección de Empresas/Grao en Enxeñaría Informática;Escola Superior de Enxeñaría Informática;39;UVIGO
+15;OURENSE;Graduado en Ingeniería Aeroespacial; Escola de Enxeñaría Aeronáutica e do Espazo;636;UVIGO
+16;OURENSE;Graduado en Enfermería; Escola Universitaria de Enfermaría de Ourense;216;UVIGO
+17;OURENSE;Graduado en Bellas Artes; Facultade de Belas Artes;213;UVIGO
+18;PONTEVEDRA;Graduado en Ciencias de la Actividad Física y del Deporte; Facultade de Ciencias da Educación e do Deporte;508;UVIGO
+19;PONTEVEDRA;Graduado en Educación Infantil; Facultade de Ciencias da Educación e do Deporte;352;UVIGO
+20;PONTEVEDRA;Graduado en Educación Primaria; Facultade de Ciencias da Educación e do Deporte;386;UVIGO
+21;PONTEVEDRA;Graduado en Ingeniería Forestal;Escola de Enxeñaría Forestal;1245;UVIGO
+22;PONTEVEDRA;Graduado en Publicidad y Relaciones Públicas; Facultade de Ciencias Sociais e da Comunicación;126;UVIGO
+23;PONTEVEDRA;Grao en Comunicación Audiovisual;Facultade de Ciencias Sociais e da Comunicación;185;UVIGO
+24;PONTEVEDRA;Grao en Dirección e Xestión Pública; Facultade de Ciencias Sociais e da Comunicación;169;UVIGO
+25;PONTEVEDRA;Grao en Fisioterapia;Facultade de Fisioterapia;789;UVIGO
+26;PONTEVEDRA;Graduado en Enfermería;Escola Universitaria de Enfermaría da Deputación Provincial de Pontevedra;236;UVIGO
+27;PONTEVEDRA;Grao en Enxeñaría Mecánica;Centro Universitario da Defensa da Escola Naval Militar de Marín  ;207;UVIGO
+28;PONTEVEDRA;Graduado en Ciencias del Lenguaje y Estudios Literarios;Facultade de Filoloxía e Tradución;353;UVIGO
+29;VIGO;Graduado en Traducción e Interpretación;Facultade de Filoloxía e Tradución;453;UVIGO
+30;VIGO;Grao en Filoloxía Aplicada Galega e Española;Facultade de Filoloxía e Tradución;25;UVIGO
+31;VIGO;Grao en Linguas Estranxeiras;Facultade de Filoloxía e Tradución;220;UVIGO
+32;VIGO;Grao en Bioloxía;Facultade de Bioloxía;757;UVIGO
+33;VIGO;Graduado en Administración y Dirección de Empresas; Facultade de Ciencias Económicas e Empresariais;357;UVIGO
+34;VIGO;Graduado en Economía;Facultade de Ciencias Económicas e Empresariais;289;UVIGO
+35;VIGO;PCEO Grao en Administración e Dirección de Empresas/Grao en Dereito;Facultade de Ciencias Económicas e Empresariais;226;UVIGO
+36;VIGO;Grao en Enxeñaría de Tecnoloxías de Telecomunicación; Escola de Enxeñaría de Telecomunicación;1464;UVIGO
+37;VIGO;Graduado en Comercio;Facultade de Comercio;612;UVIGO
+38;VIGO;Graduado en Derecho;Facultade de Ciencias Xurídicas e do Traballo;353;UVIGO
+39;VIGO;Graduado en Relaciones Laborales y Recursos Humanos;Facultade de Ciencias Xurídicas e do Traballo;356;UVIGO
+40;VIGO;Grao en Enxeñaría da Enerxía; Escola de Enxeñaría de Minas e Enerxía;760;UVIGO
+41;VIGO;Grao en Enxeñaría dos Recursos Mineiros e Enerxéticos; Escola de Enxeñaría de Minas e Enerxía;61;UVIGO
+42;VIGO;Graduado en Ciencias del Mar; Facultade de Ciencias do Mar;242;UVIGO
+43;VIGO;Graduado en Química; Facultade de Química;287;UVIGO
+44;VIGO;Graduado en Ingeniería Biomédica; Escola de Enxeñaría Industrial;265;UVIGO
+45;VIGO;Graduado en Ingeniería Eléctrica;Escola de Enxeñaría Industrial;191;UVIGO
+46;VIGO;Graduado en Ingeniería en Electrónica Industrial y Automática; Escola de Enxeñaría Industrial;482;UVIGO
+47;VIGO;Graduado en Ingeniería en Organización Industrial;Escola de Enxeñaría Industrial;383;UVIGO
+48;VIGO;Graduado en Ingeniería en Química Industrial; Escola de Enxeñaría Industrial;195;UVIGO
+49;VIGO;Graduado en Ingeniería en Tecnologías Industriales; Escola de Enxeñaría Industrial;360;UVIGO
+50;VIGO;Grao en Enxeñaría Mecánica; Escola de Enxeñaría Industrial;670;UVIGO
+51;VIGO;PCEO Grao en Enxeñaría Biomédica/Grao en Enxeñaría en Electrónica Industrial e Automática; Escola de Enxeñaría Industrial;15;UVIGO
+52;VIGO;PCEO Grao en Enxeñaría Biomédica/Grao en Enxeñaría Mecánica;Escola de Enxeñaría Industrial;13;UVIGO
+53;VIGO;PCEO Grao en Enxeñaría Mecánica/Grao en Enxeñaría en Electrónica Industrial e Automática; Escola de Enxeñaría Industrial;25;UVIGO
+54;VIGO;Graduado en Educación Infantil; Escola Universitaria de Profesorado de E.X.B. ;2532;UVIGO
+55;VIGO;Graduado en Educación Primaria;Escola Universitaria de Profesorado de E.X.B. ;260;UVIGO
+56;VIGO;Graduado en Enfermería; Escola Universitaria de Enfermaría Meixoeiro;477;UVIGO
+57;VIGO;Graduado en Enfermería; Escola Universitaria de Enfermaría Povisa;214;UVIGO
+58;VIGO;Graduado en Administración y Dirección de Empresas;Instituto de Educación Superior Intercontinental da Empresa (IESIDE);265;UVIGO
+0;SANTIAGO;;Facultade de Filoloxia;192;USC
+1;SANTIAGO;;Facultade de Filosofia;52;USC
+2;LUGO;;Facultade de Humanidades;54;USC
+3;SANTIAGO;;Facultade de Xeografia e Historia;226;USC
+4;SANTIAGO;;Facultade de Filoloxia;1231;USC
+5;SANTIAGO;;Facultade de Filosofia;252;USC
+6;LUGO;;Facultade de Humanidades;78;USC
+7;SANTIAGO;;Facultade de Xeografia e Historia;802;USC
+8;SANTIAGO;;Facultade de Filoloxia;108;USC
+9;SANTIAGO;; Facultade de Filosofia;14;USC
+10;LUGO;;Facultade de Humanidades;37;USC
+11;SANTIAGO;;Facultade de Xeografia e Historia;109;USC
+12;SANTIAGO;;Escola Politecnica Superior de Enxeiiaria;48;USC
+13;SANTIAGO;;Facultade de Bioloxia;68;USC
+14;SANTIAGO;;Facultade de Fisica;156;USC
+15;SANTIAGO;;Facultade de Matematicas;44;USC
+16;SANTIAGO;;Facultade de Quimica;117;USC
+17;SANTIAGO;;Institutes de Acuicultura;14;USC
+18;SANTIAGO;;Facultade de Bioloxia;660;USC
+19;SANTIAGO;;Facultade de Ciencias;89;USC
+20;SANTIAGO;;Facultade de Fisica;506;USC
+21;SANTIAGO;;Facultade de Matematicas;522;USC
+22;SANTIAGO;;Facultade de Quimica;523;USC
+23;SANTIAGO;;Facultade de Bioloxia;52;USC
+24;SANTIAGO;; Facultade de Ciencias;37;USC
+26;SANTIAGO;;Facultade de Fisica;72;USC
+27;SANTIAGO;;Facultade de Matematicas;70;USC
+28;SANTIAGO;;Facultade de Quimica;74;USC
+30;SANTIAGO;;Escola de Douloramento Internacional da USC (EDIUS);5;USC
+31;SANTIAGO;;Facultade de Bioloxia;27;USC
+32;SANTIAGO;;Facultade de Farmacia;118;USC
+33;SANTIAGO;;Facultade de Medicina e Odontoloxia;569;USC
+34;SANTIAGO;;Facultade de Psicoloxia;77;USC
+35;LUGO;;Facultade de Veterinaria;73;USC
+36;LUGO;;Escola Universitaria de Enfermaria;217;USC
+37;LUGO;;Facultade de Ciencias;204;USC
+38;SANTIAGO;;Facultade de Enfermaria;559;USC
+39;SANTIAGO;;Facultade de Farmacia;1073;USC
+40;SANTIAGO;;Facultade de Medicina e Odontoloxia;2375;USC
+41;SANTIAGO;;Facultade de Optica e Optometria;227;USC
+42;SANTIAGO;;Facultade de Psicoloxia;706;USC
+43;LUGO;;Facultade de Veterinaria;616;USC
+44;SANTIAGO;;Facultade de Ciencias da Comunicación;75;USC
+45;SANTIAGO;;Facultade de Ciencias da Educación;166;USC
+46;SANTIAGO;;Facultade de Ciencias Econimicas  e Empresariais;166;USC
+47;SANTIAGO;;Facultade de Ciencias Politicas e Socia is;61;USC
+48;SANTIAGO;;Facultade de Dereito;78;USC
+49;SANTIAGO;;Facultade de Psicoloxia;39;USC
+50;SANTIAGO;;Facultade de Relacións Laborais;29;USC
+51;SANTIAGO;;Facultade de Xeografia e Historia;16;USC
+52;LUGO;;Escola Universitaria de Relacións Laborais;125;USC
+53;SANTIAGO;;Escola Universitaria de Traballo Social;323;USC
+54;LUGO;;Facultade de Administración e Dirección de Empresas;342;USC
+55;SANTIAGO;;Facultade de Ciencias da Comunicación;554;USC
+56;SANTIAGO;;Facultade de Ciencias da Educación;1499;USC
+57;SANTIAGO;;Facultade de Ciencias Económicas  e Empresariais;1451;USC
+58;SANTIAGO;;Facultade de Ciencias Politicas e Socia is;464;USC
+59;SANTIAGO;;Facultade de Dereito;1177;USC
+60;LUGO;;Facultade de Formación do Profesorado;767;USC
+61;SANTIAGO;;Facultade de Relacións Laborais;465;USC
+62;SANTIAGO;;Facultade de Xeografia e Historia;133;USC
+63;LUGO;;Colexio Provincial de Avogados de Lugo;20;USC
+64;LUGO;;Escola Politecnica Superior de Enxeñaria;5;USC
+65;LUGO;;Facultade de Administración e Dirección de Empresas;27;USC
+66;SANTIAGO;;Facultade de Ciencias da Comunicaci6n;39;USC
+67;SANTIAGO;;Facultade de Ciencias da Educaci6n;347;USC
+68;SANTIAGO;;Facultade de Ciencias Econ6micas e Empresariais;130;USC
+69;SANTIAGO;;Facultade de Ciencias Politicas e Sociais;42;USC
+70;SANTIAGO;;Facultade de Dereito;160;USC
+71;LUGO;;Facultade de Formaci6n do Profesorado;92;USC
+72;SANTIAGO;;Facultade de Psicoloxia;44;USC
+73;SANTIAGO;;Facultade de Relaci6ns Laborais;79;USC
+74;SANTIAGO;;Facultade de Xeografia e Historia;21;USC
+75;LUGO;;Escola Politecnica Superior de Enxeiiaria;94;USC
+76;SANTIAGO;;Escola Tecnica Superior de Enxeiiaria;120;USC
+77;SANTIAGO;;Facultade de Fisica;3;USC
+78;SANTIAGO;;Facultade de Matematicas;15;USC
+79;SANTIAGO;;Escola Politecnica Superior de Enxeñaria;538;USC
+80;LUGO;;Escola Tecnica Superior de Enxeñarfa;589;USC
+81;LUGO;;Facultade de Ciencias;123;USC
+82;SANTIAGO;;Facultade de Matematicas;54;USC
+83;LUGO;;Escola Politecnica Superior de Enxeñaria;104;USC
+84;SANTIAGO;;Escola Tecnica Superior de Enxeñaria;137;USC
+85;LUGO;;Facultade de Ciencias;9;USC
+87;SANTIAGO;;Facultade de Matematicas;29;USC
+0;A CORUÑA;Grao aberto en Ciencias Sociais e Xurídicas;Facultad de Dereito;12;UDC
+1;A CORUÑA;Grao en Administración e Dirección de Empresas;Facultad de Economía e Empresa;802;UDC
+2;A CORUÑA;Grao en Arquitectura Técnica;Escola Técnica Superior de Arquitectura;218;UDC
+3;A CORUÑA;Grao en Bioloxía;Facultade de Ciencias;349;UDC
+4;A CORUÑA;Grao en Ciencia e Enxeñaría de Datos;Facultade de Informática;157;UDC
+5;A CORUÑA;Grao en Ciencias da Actividade Física e do Deporte;Facultade de Ciencias do Deporte e a Educación Física;597;UDC
+6;A CORUÑA;Grao en Ciencias Empresariais;Facultad de Economía e Empresa;354;UDC
+7;A CORUÑA;Grao en Comunicación Audiovisual;Facultade de Comunicación;275;UDC
+8;A CORUÑA;Grao en Creación Dixital, Animación e Videoxogos;Facultade de Comunicación;184;UDC
+9;A CORUÑA;Grao en Dereito;Facultade de Dereito;637;UDC
+10;A CORUÑA;Grao en Economía;Facultad de Economía e Empresa;390;UDC
+11;A CORUÑA;Grao en Educación Infantil;Facultade de Educación;548;UDC
+12;A CORUÑA;Grao en Educación Primaria;Facultade de Educación;554;UDC
+13;A CORUÑA;Grao en Educación Social;Facultade de Educación;341;UDC
+14;A CORUÑA;Grao en Enfermaría;Facultade de Enfermaría e Podoloxía;263;UDC
+15;A CORUÑA;Grao en Enxeñaría de Obras Públicas;Escola Técnica Superior de Enxeñaría;159;UDC
+16;A CORUÑA;Grao en Enxeñaría Informática;Facultade de Informática;1307;UDC
+17;A CORUÑA;Grao en Español: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;84;UDC
+18;A CORUÑA;Grao en Estudos de Arquitectura;Facultade de Enfermaría e Podoloxía;652;UDC
+19;A CORUÑA;Grao en Fisioterapia;Facultade de Fisioterapia;295;UDC
+20;A CORUÑA;Grao en Galego e Portugués: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;35;UDC
+21;A CORUÑA;Grao en Inglés: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;255;UDC
+22;A CORUÑA;Grao en Logopedia;Facultade de Ciencias da Educación;257;UDC
+23;A CORUÑA;Grao en Máquinas Navais;Escola Técnica Superior de Enxeñaría;34;UDC
+24;A CORUÑA;Grao en Nanociencia e Nanotecnoloxía;Facultade de Ciencias;100;UDC
+25;A CORUÑA;Grao en Náutica e Transporte Marítimo;Escola Politécnica Superior;245;UDC
+26;A CORUÑA;Grao en Paisaxe;Escola Técnica Superior de Arquitectura;18;UDC
+27;A CORUÑA;Grao en Química;Facultade de Ciencias;249;UDC
+28;A CORUÑA;Grao en Relacións Laborais e Recursos Humanos;Facultade de Socioloxía;261;UDC
+29;A CORUÑA;Grao en Socioloxía;Facultade de Socioloxía;381;UDC
+30;A CORUÑA;Grao en Tecnoloxía da Enxeñaría Civil;Escola Técnica Superior de Enxeñaría;144;UDC
+31;A CORUÑA;Grao en Tecnoloxías Mariñas;Escola Politécnica Superior;78;UDC
+32;A CORUÑA;Grao en Terapia Ocupacional;Facultade de Ciencias da Saúde;223;UDC
+33;A CORUÑA;Grao en Turismo;Facultade de Ciencias Económicas e Empresariais;224;UDC
+34;A CORUÑA;Programa de simultaneidade do Grao en Administración e Dirección de Empresas e o Grao en Dereito;Facultade de Ciencias Económicas e Empresariais + Facultade de Dereito;352;UDC
+35;A CORUÑA;Programa de simultaneidade do Grao en Arquitectura Técnica e o Grao en Ciencias Empresariais ;Escola Técnica Superior de Arquitectura + Facultade de Ciencias Económicas e Empresariais;13;UDC
+36;A CORUÑA;Programa de simultaneidade do Grao en Bioloxía e o Grao en Química;Facultade de Ciencias + Facultade de Ciencias;66;UDC
+37;A CORUÑA;Programa de simultaneidade do Grao en Español: Estudos Lingüísticos e Literarios e o Grao en Galego e Portugués: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;24;UDC
+38;A CORUÑA;Programa de simultaneidade do Grao en Inglés: Estudos Lingüísticos e Literarios e o Grao en Español: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;121;UDC
+39;A CORUÑA;Programa de simultaneidade do Grao en Inglés: Estudos Lingüísticos e Literarios e o Grao en Galego e Portugués: Estudos Lingüísticos e Literarios;Facultade de Filoloxía;26;UDC
+40;A CORUÑA;Programa de simultaneidade do Grao en Turismo e o Grao en Ciencias Empresariais;Facultade de Ciencias Económicas e Empresariais;161;UDC
+41;FERROL;Grao aberto en Enxeñaría Industrial;Escola Politécnica Superior de Ferrol;10;UDC
+42;FERROL;Grao en Enfermaría;Facultade de Enfermaría e Podoloxía;264;UDC
+43;FERROL;Grao en Enxeñaría de Deseño Industrial e Desenvolvemento do Produto;Escola Politécnica Superior de Ferrol;385;UDC
+44;FERROL;Grao en Enxeñaría Eléctrica;Escola Politécnica Superior de Ferrol;80;UDC
+45;FERROL;Grao en Enxeñaría Electrónica Industrial e Automática;Escola Politécnica Superior de Ferrol;189;UDC
+46;FERROL;Grao en Enxeñaría en Tecnoloxías Industriais;Escola Politécnica Superior de Ferrol;138;UDC
+47;FERROL;Grao en Enxeñaría Mecánica;Escola Politécnica Superior de Ferrol;197;UDC
+48;FERROL;Grao en Enxeñaría Naval e Oceánica;Escola Politécnica Superior de Ferrol;140;UDC
+49;FERROL;Grao en Humanidades;Facultade de Humanidades;18;UDC
+50;FERROL;Grao en Información e Documentación;Facultade de Humanidades;11;UDC
+51;FERROL;Grao en Podoloxía;Facultade de Enfermaría e Podoloxía;186;UDC
+52;FERROL;Grao en Relacións Laborais e Recursos Humanos;Facultade de Socioloxía;165;UDC
+53;FERROL;Grao en Xestión Dixital de Información e Documentación;Facultade de Humanidades;45;UDC
+54;FERROL;Grao en Xestión Industrial da Moda;Escola Politécnica Superior de Ferrol;239;UDC
+55;FERROL;Programa de simultaneidade do Grao en Enxeñaría Mecánica e o Grao en Enxeñaría Naval e Oceánica;Escola Politécnica Superior de Ferrol;46;UDC
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
