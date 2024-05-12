@@ -8,7 +8,7 @@ El proyecto está organizado de la siguiente manera:
 
 1. **Archivo PBIX de Power BI**: Contiene el análisis completo realizado en Power BI, incluyendo visualizaciones, gráficos y tablas interactivas.
 
-2. **Script en Pandas**: Un archivo Python donde se realizan operaciones de enlace o edición de tablas para preparar los datos antes de cargarlos en Power BI.
+2. **Carpeta Pandas**: Un archivo Python donde se realizan operaciones de enlace o edición de tablas para preparar los datos antes de cargarlos en Power BI.
 
 3. **Carpeta de Web Scraping**: Contiene scripts utilizados para extraer datos de Idealista mediante web scraping. Estos datos se utilizan para complementar el análisis.
 
