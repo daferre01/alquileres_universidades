@@ -32,7 +32,7 @@ El proyecto está organizado de la siguiente manera:
 
 ## Créditos
 
-Este proyecto fue creado por [Tu Nombre].
+Este proyecto fue creado por David Fernández Reboredo.
 
 ## Licencia
 
